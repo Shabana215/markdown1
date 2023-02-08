@@ -51,6 +51,8 @@ Welcome to markdown text online editor and preview, we are in blockquotes
 
 ### tripletick
 
-``` This is triple line
+``` 
+This is triple line
 block with the help of 
-3back ticks ```
+3back ticks 
+```
