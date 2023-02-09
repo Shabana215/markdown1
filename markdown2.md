@@ -11,7 +11,7 @@ _Italic/Emphasis_
 
 **Bold Text**
 
-__Bold Text__
+__Bold Picture__
 
 *combination of both **Italic and Bold** Text*
 
